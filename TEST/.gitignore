@@ -1,0 +1,14 @@
+# Raw telemetry data (too large for git, share separately)
+player_data/
+
+# Node.js
+viz-tool/node_modules/
+viz-tool/.next/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
